@@ -6,7 +6,9 @@ An app that allows the user to track their deposits and with draws and is able t
 
 ## Deployed Application 
 
+![image of deployed app](https://github.com/DangerBearAZ/budget-tracker/blob/main/assets/demo.JPG "Deployed app image")
+
 Heroku [https://calm-gorge-30505.herokuapp.com/]
 
-!
+
 
